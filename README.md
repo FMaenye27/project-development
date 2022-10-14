@@ -53,3 +53,9 @@ Then type:
 ```bash
 git lga
 ```
+
+### If you would like to get a local clone to start coding, run this:
+
+```bash
+git clone https://github.com/FMaenye27/project-development.git
+``` 
