@@ -53,6 +53,20 @@ Then type:
 ```bash
 git lga
 ```
+It should look like this:
+NOT MEANT TO COPY
+
+```bash
+* ae1cfae (HEAD -> development, origin/development, origin/HEAD) updated README.md to make it easier to clone the repo
+*   bed39d4 Merge branch 'development' of https://github.com/FMaenye27/project-development into development
+|\  
+| * 4f42fd3 Create CODEOWNERS
+* | 45ad007 updated README.md with additional setup information
+|/  
+* c7eabdf (freds_local) Updated README.md to remove additional header
+* 8800f35 Updated README.md file
+* bb8eef2 (origin/master) Initial commit
+```
 
 ### If you would like to get a local clone to start coding, run this:
 
