@@ -1,6 +1,3 @@
-# project-development
-
-
 # Basic Code Development Repo: Project Development
 
 ## Project Development Getting Started
