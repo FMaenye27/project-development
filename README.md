@@ -73,3 +73,11 @@ NOT MEANT TO COPY
 ```bash
 git clone https://github.com/FMaenye27/project-development.git
 ``` 
+
+### Create a local branch
+
+```bash
+git checkout -b <new_branch_name_here>
+```
+
+
