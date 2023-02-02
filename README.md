@@ -1,7 +1,7 @@
 # Basic Code Development Repo: Project Development
 
 ## Project Development Getting Started
-Just a starter on going project meant to test functionality and grow
+Just a starter on going project meant to test functionality and grow. Please add more projects to it!
 
 ## What needs to be done:
 - Develop a project concept
